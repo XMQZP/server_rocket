@@ -210,7 +210,7 @@
 		"lodash.property": "^4.4.2",
 		"lru-cache": "^5.1.1",
 		"mailparser": "^2.4.3",
-		"marked": "^0.7.0",
+		"marked": "^4.0.10",
 		"mem": "4.1.0",
 		"meteor-node-stubs": "^0.4.1",
 		"mime-db": "^1.40.0",
